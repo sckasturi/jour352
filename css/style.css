@@ -1,0 +1,13 @@
+body {
+  background-color:#ffffff;
+  font-family: 'Nunito', sans-serif;
+}
+
+h1 {
+	font-family: 'Nabla', system-ui;
+}
+
+.headbox { 
+	background-color: orange;
+	padding: 10px;
+}
