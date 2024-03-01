@@ -1,0 +1,50 @@
+body {
+  background-color:#f4f4f4;
+  font-family: "Poppins", sans-serif;
+}
+
+p {
+  font-weight: 500;
+  font-style: normal;
+}
+
+h1 {
+  font-weight: 900;
+  font-style: normal;
+}
+
+th, tr, td {
+	padding: 5px;
+
+}
+th {
+	font-weight: bold;
+	text-align: left;
+}
+
+img {
+	max-width: 100%
+}
+
+.header { 
+  background: #e9cb20;
+}
+
+.padded {
+  padding: 20px;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.sidebar {
+  width: 400px;
+  float: right;
+  color: #ffffff;
+  background-color: #666666;
+}
+
+.tracktitle {
+	width: 300px;
+}
