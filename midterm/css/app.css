@@ -87,6 +87,11 @@ body {
   font-weight:600;
 }
 
+.youtube-video {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+}
+
 h1 {
   text-transform: uppercase;
 }
